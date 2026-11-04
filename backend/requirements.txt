@@ -1,6 +1,0 @@
-fastapi
-uvicorn
-psycopg[binary]
-python-dotenv
-bcrypt
-pyjwt
